@@ -1,2 +1,2 @@
 # LGMVIP-Web-Task-no.3-RegistrationForm 
-I have created this task using HTML,CSS and JS.
+I have done this task of creating Registration form whose data display on the same page using HTML,CSS and JS.
